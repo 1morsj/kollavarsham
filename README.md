@@ -1,6 +1,6 @@
 # Kollavarsham Date Converter
 
-This project provides a Python script to convert Gregorian dates to Kollavarsham dates, utilizing the `kollavarsham` Python library.
+This project provides a Python script to convert Gregorian dates to Kollavarsham dates, utilizing the [`kollavarsham`](https://pypi.org/project/kollavarsham/) Python library.
 
 ## Features
 
